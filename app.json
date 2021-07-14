@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "stardew-assisant",
+    "slug": "stardew-assisant",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "stardew-assisant"
+}
